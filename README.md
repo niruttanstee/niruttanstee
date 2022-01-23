@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🌱 Currently studying: Java, Node.js, PHP, CSS, Javascript, MariaDB, Algorithms and Cybersecurity
 - 🤝🏼 Looking to collaborate on awesome projects and to be part of an incredible team 🥊
 - 📫 How to reach me: DM me on instagram 📧 or via my job submissions.
-- ⚡ Fun fact: I built my first computer when I was 12 🖖
+- ⚡ Something about me: My favourite TV show is Star Trek: Deep Space 9 🖖
