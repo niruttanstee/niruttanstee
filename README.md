@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 👋🙂 I'm @niruttanstee! Software Developer / Fullstack Developer 👨🏽‍💻
+- 👋🙂 Hey, I'm @niruttanstee! Software Developer / Fullstack Developer 👨🏽‍💻
 - 👀 Interested in: tech, 2012 music and videogames. Always motivated to learn more! 
 - 🌱 Currently studying: Java, Node.js, PHP, CSS, Javascript, MariaDB, Algorithms and Cybersecurity
 - 🤝🏼 Looking to collaborate on awesome projects and to be part of an incredible team 🥊
