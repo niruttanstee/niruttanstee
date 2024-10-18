@@ -10,7 +10,6 @@ Developing seamless and sustainable digital experiences.
 <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="react" width="20"/> `React`
 <img src="https://icon.icepanel.io/Technology/svg/Next.js.svg" alt="next.js" width="20"/> `Next.js`
 <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwindcss" width="20"/> `Tailwind CSS`
-
 <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="postgressql" width="20"/> `PostgresSQL`
 <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" alt="firebase" width="20"/> `Firebase`
 <img src="https://icon.icepanel.io/Technology/svg/Vercel.svg" alt="vercel" width="20"/> `Vercel`
