@@ -36,5 +36,6 @@ Developing seamless and sustainable digital experiences.
 
 #### Designed and developed:
 
-[martletstudio.com](https://www.martletstudio.com)
-[yesdental.my](https://www.yesdental.my)
+[martletstudio.com](https://www.martletstudio.com) - Web Development Company
+
+[yesdental.my](https://www.yesdental.my) - Dental Clinic
