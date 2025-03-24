@@ -1,5 +1,5 @@
 ## Hello there 👋
-Full-Stack Engineer and UI/UX designer at [Martlet Studio](https://www.martletstudio.com).
+Full-Stack Engineer and UX/UI designer at [Martlet Studio](https://www.martletstudio.com).
 
 Developing seamless and sustainable digital experiences. 
 
