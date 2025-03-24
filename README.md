@@ -10,7 +10,7 @@ Developing seamless and sustainable digital experiences.
 <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="react" width="20"/> `React`
 <img src="https://icon.icepanel.io/Technology/svg/Next.js.svg" alt="next.js" width="20"/> `Next.js`
 <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwindcss" width="20"/> `Tailwind CSS`
-<img src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg](https://payloadcms.com/apple-icon.png?1be71cc371876318" alt="payloadcms" width="20"/> `Payload CMS`
+<img src="https://payloadcms.com/apple-icon.png?1be71cc371876318" alt="payloadcms" width="20"/> `Payload CMS`
 
 <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="postgressql" width="20"/> `PostgresSQL`
 <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" alt="firebase" width="20"/> `Firebase`
