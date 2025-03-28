@@ -9,8 +9,8 @@ Developing seamless and sustainable digital experiences.
 
 <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="react" width="20"/> `React`
 <img src="https://icon.icepanel.io/Technology/svg/Next.js.svg" alt="next.js" width="20"/> `Next.js`
+<img src="https://www.scorchsoft.com/public/capabilities/head/react-native-logo-square.webp" alt="reactnative" width="20"/> `React Native`
 <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwindcss" width="20"/> `Tailwind CSS`
-<img src="https://payloadcms.com/apple-icon.png?1be71cc371876318" alt="payloadcms" width="20"/> `Payload CMS`
 
 <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="postgressql" width="20"/> `PostgresSQL`
 <img src="https://icon.icepanel.io/Technology/svg/Firebase.svg" alt="firebase" width="20"/> `Firebase`
@@ -18,7 +18,8 @@ Developing seamless and sustainable digital experiences.
 
 <img src="https://everythingdevops.dev/content/images/2023/08/Amazon-S3-Logo.svg.png" alt="amazons3" width="20"/> `Amazon S3`
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/1200px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png" alt="amazonec2" width="20"/> `Amazon EC2`
-<img src="https://www.scorchsoft.com/public/capabilities/head/react-native-logo-square.webp" alt="reactnative" width="20"/> `React Native`
+<img src="https://payloadcms.com/apple-icon.png?1be71cc371876318" alt="payloadcms" width="20"/> `Payload CMS`
+
 
 
 
