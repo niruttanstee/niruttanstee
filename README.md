@@ -1,7 +1,7 @@
 ## Hello there 👋
-I'm [Nirutt](https://www.nirutt.com), a Full Stack Developer.
+I'm [Nirutt](https://www.nirutt.com), a Full Stack Developer creating seamless websites and apps.
 
-Developing seamless, accessible and sustainable digital experiences.
+Developing secure, accessible and sustainable digital experiences.
 
 Outside of programming, you'll find me running marathons or food hunting. I also enjoy creating videos documenting my coding and running journey on social media.
 
